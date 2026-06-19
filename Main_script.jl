@@ -1,3 +1,8 @@
+#Authors: Sofiane Taki-Eddine Rahmani, Gert Zöller, Sebastian Hainzl, Behnam Maleki Asayesh
+#Cite papar:  
+
+
+
 # ============================================================
 # ETAS-SPDE MCMC 
 # ============================================================
